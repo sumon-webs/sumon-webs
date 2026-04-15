@@ -9,7 +9,7 @@ I made many project with html and css, such as landing page, facbook login page,
 Skills:  HTML / CSS / Tailwind css / React / Next.js
 
 - 🔭 I’m currently working on as a student 
-- 🌱 I’m currently learning Javascript. 
+- 🌱 I’m currently learning Next.js. 
 - 💬 Ask me about my self. 
 
 
