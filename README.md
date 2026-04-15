@@ -6,7 +6,7 @@
 
 I made many project with html and css, such as landing page, facbook login page, ecommerce website, portfolio etc. And this is my portfolio you can see here my project.
 
-Skills:  HTML / CSS
+Skills:  HTML / CSS / Tailwind css / React / Next.js
 
 - 🔭 I’m currently working on as a student 
 - 🌱 I’m currently learning Javascript. 
