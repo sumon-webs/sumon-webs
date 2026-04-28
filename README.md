@@ -1,10 +1,20 @@
-![I am front end web developer](https://pbs.twimg.com/profile_banners/2008754419610058752/1767759746/600x200)
+![I am Front End Web Developer](https://pbs.twimg.com/profile_banners/2008754419610058752/1767759746/600x200)
 
-### Hi there 👋, my name is Sumon
-#### I am front end web developer
+<h1 align="center">Hi 👋, I'm Sumon</h1>
+<h3 align="center">Frontend Web Developer | React & Next.js Enthusiast</h3>
 
+---
 
-I made many project with html and css, such as landing page, facbook login page, ecommerce website, portfolio etc. And this is my portfolio you can see here my project.
+## 👨‍💻 About Me
+I am a passionate Frontend Web Developer who loves building modern, responsive, and user-friendly websites.  
+I have experience creating projects like landing pages, e-commerce websites, and portfolio sites.
+
+- 💻 Focused on Frontend Development  
+- 🚀 Love working with React & Next.js  
+- 🌱 Currently learning advanced concepts  
+- 🎯 Goal: Become a Full Stack Developer  
+
+---
 
 ## 🚀 Skills
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -14,9 +24,30 @@ I made many project with html and css, such as landing page, facbook login page,
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-## 🌐 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-sumon-ali1557))
+---
+
+## 🔥 Projects
+- 🌐 Portfolio Website: https://sumon-portfolio-mu.vercel.app  
+- 🛒 E-commerce Website (HTML, CSS)  
+- 📱 Facebook Login Page Clone  
+- 📄 Landing Page Projects  
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+</p>
+
+---
+
+## 🌐 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-sumon-ali1557)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sumon-portfolio-mu.vercel.app)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/sumon.babu.588467)
 
+---
 
+## ☕ Support Me
+If you like my work, consider giving a ⭐ to my repositories!
