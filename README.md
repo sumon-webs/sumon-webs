@@ -6,7 +6,12 @@
 
 I made many project with html and css, such as landing page, facbook login page, ecommerce website, portfolio etc. And this is my portfolio you can see here my project.
 
-Skills:  HTML / CSS / Tailwind css / React / Next.js
+## 🚀 Skills
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 
 - 🔭 I’m currently working on as a student 
 - 🌱 I’m currently learning Next.js. 
