@@ -1,4 +1,4 @@
-![I am Front End Web Developer](https://pbs.twimg.com/profile_banners/2008754419610058752/1767759746/600x200)
+![I am Front End Web Developer](https://res.cloudinary.com/dyrgvsedy/image/upload/v1780996035/Gemini_Generated_Image_6dkz6f6dkz6f6dkz_dgsmn9.png)
 
 <h1 align="center">Hi 👋, I'm Sumon</h1>
 <h3 align="center">Frontend Web Developer | React & Next.js Enthusiast</h3>
