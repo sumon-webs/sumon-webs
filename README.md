@@ -1,59 +1,138 @@
-![I am Front End Web Developer](https://res.cloudinary.com/dyrgvsedy/image/upload/v1780996035/Gemini_Generated_Image_6dkz6f6dkz6f6dkz_dgsmn9.png)
+![I am Frontend Web Developer](https://res.cloudinary.com/dyrgvsedy/image/upload/v1780996035/Gemini_Generated_Image_6dkz6f6dkz6f6dkz_dgsmn9.png)
 
-<h1 align="center">Hi 👋, I'm Sumon</h1>
-<h3 align="center">Frontend Web Developer | React & Next.js Enthusiast</h3>
+<h1 align="center">Hi 👋, I'm MD Sumon Ali</h1>
+<h3 align="center">Frontend Web Developer | React.js & Next.js Developer | MERN Stack Learner</h3>
 
----
-
-## 👨‍💻 About Me
-I am a passionate Frontend Web Developer who loves building modern, responsive, and user-friendly websites.  
-I have experience creating projects like landing pages, e-commerce websites, and portfolio sites.
-
-- 💻 Focused on Frontend Development  
-- 🚀 Love working with React & Next.js  
-- 🌱 Currently learning advanced concepts  
-- 🎯 Goal: Become a Full Stack Developer  
-
----
-
-## 🚀 Skills
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
----
-
-## 🔥 Projects
-- 🌐 Portfolio Website: https://sumon-portfolio-mu.vercel.app  
-- 🛒 E-commerce Website (HTML, CSS)  
-- 📱 Facebook Login Page Clone  
-- 📄 Landing Page Projects  
-
----
-
-## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://komarev.com/ghpvc/?username=sumon-webs&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
 </p>
 
 ---
 
-## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-sumon-ali1557)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sumon-portfolio-mu.vercel.app)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/sumon.babu.588467)
+# 👨‍💻 About Me
+
+I am a passionate Frontend Web Developer from Bangladesh who enjoys building modern, responsive, and user-friendly web applications. I love creating clean UI/UX experiences using React and Next.js. I am continuously learning new technologies and working toward becoming a skilled Full Stack Developer.
 
 ---
 
-## ☕ Support Me
-If you like my work, consider giving a ⭐ to my repositories!
+# 🌱 Current Activities
+
+- 🔭 Currently building a Tourism Website using Next.js.
+- 🌱 Exploring Next.js App Router and Server Components.
+- 💻 Practicing Data Structures & Algorithms with JavaScript.
+- 🚀 Learning Backend Development with Node.js, Express.js & MongoDB.
+- ⚡ Improving TypeScript and API Integration skills.
+
+---
+
+# 💻 Tech Stack
+
+### 🎨 Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
+</p>
+
+### ⚙️ Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+</p>
+
+### 🛠️ Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,postman,npm" />
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+### 🌐 Portfolio Website
+🔗 https://sumon-portfolio-mu.vercel.app
+
+### 🩺 DocAppoint
+Doctor Appointment Booking Platform built with Next.js, Better Auth, MongoDB & Tailwind CSS.
+
+### 🏡 Tourism Website
+Modern tourism booking website using Next.js.
+
+### 🎨 AI Image Generator
+AI-powered image generation web application.
+
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+<a href="https://github.com/sumon-webs" target="_blank">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<a href="https://www.linkedin.com/in/md-sumon-ali1557" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="mailto:sumon01333581557@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+<a href="https://sumon-portfolio-mu.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+</p>
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sumon-webs&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=sumon-webs&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumon-webs&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+[![Sumon's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sumon-webs&theme=tokyo-night)](https://github.com/sumon-webs)
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=sumon-webs&theme=tokyonight&no-frame=true&row=1&column=6"/>
+</p>
+
+---
+
+# 📫 Contact Me
+
+📧 Email: **sumon01333581557@gmail.com**
+
+🌐 Portfolio: **https://sumon-portfolio-mu.vercel.app**
+
+💼 LinkedIn:
+**https://www.linkedin.com/in/md-sumon-ali1557**
+
+🐙 GitHub:
+**https://github.com/sumon-webs**
+
+---
+
+# ☕ Support Me
+
+If you like my work, consider giving ⭐ to my repositories.
+
+Thank you for visiting my profile! 😊
